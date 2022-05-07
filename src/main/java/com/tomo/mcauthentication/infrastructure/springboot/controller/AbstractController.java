@@ -20,6 +20,10 @@ public abstract class AbstractController {
     @Autowired
     protected McAuthenticationModule authenticationModule;
 
+    /*
+    * nesto dodao
+    * */
+
     @Autowired
     protected AppProperties properties;
 
